@@ -239,7 +239,7 @@ let archivos = [
   },
   {
     id: 31,
-    title: "INFOGRAFI",
+    title: "INFOGRAFIA",
     desc: "",
     data: "./archivos/Infografias_Actividad2.pdf",
     type: "pdf",
