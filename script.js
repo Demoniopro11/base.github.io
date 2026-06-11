@@ -237,6 +237,26 @@ let archivos = [
     week: 7,
     fileName: "SQL_DIAGNOSTICO2.pdf"
   },
+  {
+    id: 31,
+    title: "INFOGRAFI",
+    desc: "",
+    data: "./archivos/Infografias_Actividad2.pdf",
+    type: "pdf",
+    week: 9,
+    fileName: "Infografias_Actividad2.pdf"
+  },
+  {
+    id: 32,
+    title: "REGLAMENTO GENERAL DE GRADOS Y TÍTULOS DE PREGRADO",
+    desc: "",
+    data: "./archivos/Reglamento_generales_de_grado.pdf",
+    type: "pdf",
+    week: 9,
+    fileName: "Reglamento_generales_de_grado.pdf"
+  },
+
+
 
 
 ];
