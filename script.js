@@ -255,6 +255,43 @@ let archivos = [
     week: 9,
     fileName: "Reglamento_generales_de_grado.pdf"
   },
+  {
+    id: 33,
+    title: "Manual De Como Crear Cuenta En Azure",
+    desc: "",
+    data: "./archivos/Manual_de_Azure.pdf",
+    type: "pdf",
+    week: 10,
+    fileName: "Manual_de_Azure.pdf"
+  },
+  {
+    id: 34,
+    title: "Infografias de los temas de la semana 10",
+    desc: "",
+    data: "./archivos/Infografias_sem10.pdf",
+    type: "pdf",
+    week: 10,
+    fileName: "Infografias_sem10.pdf"
+  },
+   {
+    id: 35,
+    title: "Infografias de los temas de la semana 11",
+    desc: "",
+    data: "./archivos/Inforgrafias_sem11.pdf",
+    type: "pdf",
+    week: 11,
+    fileName: "Inforgrafias_sem11.pdf"
+  },
+  {
+    id: 36,
+    title: "Infografias de los temas de la semana 12",
+    desc: "",
+    data: "./archivos/Infografia_sem12.pdf",
+    type: "pdf",
+    week: 12,
+    fileName: "Infografia_sem12.pdf"
+  },
+  
 
 
 
