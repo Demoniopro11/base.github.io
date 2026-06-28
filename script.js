@@ -291,7 +291,33 @@ let archivos = [
     week: 12,
     fileName: "Infografia_sem12.pdf"
   },
-  
+  {
+    id: 37,
+    title: "Ejercicios Resueltos semana 10",
+    desc: "",
+    data: "./archivos/Ejercicios_Resueltos_sem10.pdf",
+    type: "pdf",
+    week: 10,
+    fileName: "Ejercicios_Resueltos_sem10.pdf"
+  },
+  {
+    id: 38,
+    title: "Ejercicios Resueltos semana 11",
+    desc: "",
+    data: "./archivos/Ejercicios_Resueltos_sem11.pdf",
+    type: "pdf",
+    week: 11,
+    fileName: "Ejercicios_Resueltos_sem11.pdf"
+  },
+   {
+    id: 39,
+    title: "Ejercicios Resueltos semana 12",
+    desc: "",
+    data: "./archivos/ejercicios_Resueltos_sem12.pdf",
+    type: "pdf",
+    week: 12,
+    fileName: "ejercicios_Resueltos_sem12.pdf"
+  },
 
 
 
