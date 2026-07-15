@@ -318,6 +318,15 @@ let archivos = [
     week: 12,
     fileName: "ejercicios_Resueltos_sem12.pdf"
   },
+   {
+    id: 40,
+    title: "Infografia semana 14 ",
+    desc: "",
+    data: "./archivos/Infografia_semana_14.pdf",
+    type: "pdf",
+    week: 14,
+    fileName: "Infografia_semana_14.pdf"
+  },
 
 
 
