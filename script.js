@@ -363,6 +363,87 @@ let archivos = [
     week: 13,
     fileName: "cuestionario_respondido_sema13.pdf"
   },
+  {
+    id: 45,
+    title: "Capitulo 1 y Cuestionario con respuestas",
+    desc: "",
+    data: "./archivos/Capitulo1.pdf",
+    type: "pdf",
+    week: 15,
+    fileName: "Capitulo1.pdf"
+  },
+   {
+    id: 46,
+    title: "Capitulo 2 y Cuestionario con respuestas",
+    desc: "",
+    data: "./archivos/Capitulo2.pdf",
+    type: "pdf",
+    week: 15,
+    fileName: "Capitulo2.pdf"
+  },
+   {
+    id: 47,
+    title: "Capitulo 3 y Cuestionario con respuestas",
+    desc: "",
+    data: "./archivos/Capitulo3.pdf",
+    type: "pdf",
+    week: 15,
+    fileName: "Capitulo3.pdf"
+  },
+  {
+    id: 48,
+    title: "Capitulo 4 y Cuestionario con respuestas",
+    desc: "",
+    data: "./archivos/Capitulo4.pdf",
+    type: "pdf",
+    week: 15,
+    fileName: "Capitulo4.pdf"
+  },
+  {
+    id: 49,
+    title: "Capitulo 5 y Cuestionario con respuestas",
+    desc: "",
+    data: "./archivos/Capitulo5.pdf",
+    type: "pdf",
+    week: 16,
+    fileName: "Capitulo5.pdf"
+  },
+  {
+    id: 50,
+    title: "Capitulo 6 y Cuestionario con respuestas",
+    desc: "",
+    data: "./archivos/Capitulo6.pdf",
+    type: "pdf",
+    week: 16,
+    fileName: "Capitulo6.pdf"
+  },
+   {
+    id: 51,
+    title: "Capitulo 7 y Cuestionario con respuestas",
+    desc: "",
+    data: "./archivos/Capitulo7.pdf",
+    type: "pdf",
+    week: 16,
+    fileName: "Capitulo7.pdf"
+  },
+   {
+    id: 52,
+    title: "Capitulo 8 y Cuestionario con respuestas",
+    desc: "",
+    data: "./archivos/Capitulo8.pdf",
+    type: "pdf",
+    week: 16,
+    fileName: "Capitulo8.pdf"
+  },
+  {
+    id: 53,
+    title: "Capitulo 9 y Cuestionario con respuestas",
+    desc: "",
+    data: "./archivos/Capitulo9.pdf",
+    type: "pdf",
+    week: 16,
+    fileName: "Capitulo9.pdf"
+  },
 
 
 
