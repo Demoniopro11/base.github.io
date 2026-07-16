@@ -327,6 +327,42 @@ let archivos = [
     week: 14,
     fileName: "Infografia_semana_14.pdf"
   },
+   {
+    id: 41,
+    title: "Infografia semana 13 ",
+    desc: "",
+    data: "./archivos/Infografias_semana_13.pdf",
+    type: "pdf",
+    week: 13,
+    fileName: "Infografias_semana_13.pdf"
+  },
+  {
+    id: 42,
+    title: "Ejercicios Resueltos semana 13 ",
+    desc: "",
+    data: "./archivos/ejercicios_Resueltos_sem13.pdf",
+    type: "pdf",
+    week: 13,
+    fileName: "ejercicios_Resueltos_sem13.pdf"
+  },
+  {
+    id: 43,
+    title: "Ejercicios Resueltos semana 14 ",
+    desc: "",
+    data: "./archivos/ejercicios_Resueltos_sem14.pdf",
+    type: "pdf",
+    week: 14,
+    fileName: "ejercicios_Resueltos_sem14.pdf"
+  },
+  {
+    id: 44,
+    title: "Cuestionario Respondido Semana 13 ",
+    desc: "",
+    data: "./archivos/cuestionario_respondido_sema13.pdf",
+    type: "pdf",
+    week: 13,
+    fileName: "cuestionario_respondido_sema13.pdf"
+  },
 
 
 
