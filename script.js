@@ -444,6 +444,24 @@ let archivos = [
     week: 16,
     fileName: "Capitulo9.pdf"
   },
+  {
+    id: 54,
+    title: "MANUAL: CREACIÓN DE BASE DE DATOS EN AWS RDS (MOTOR: MICROSOFT SQL SERVER)",
+    desc: "",
+    data: "./archivos/Creacion_base_datos.pdf",
+    type: "pdf",
+    week: 14,
+    fileName: "Creacion_base_datos.pdf"
+  },
+  {
+    id: 55,
+    title: "MANUAL DE CREACIÓN DE CUENTA EN AWS",
+    desc: "",
+    data: "./archivos/Manual_de_iniciar_AWS.pdf",
+    type: "pdf",
+    week: 14,
+    fileName: "Manual_de_iniciar_AWS.pdf"
+  },
 
 
 
